@@ -1,0 +1,9 @@
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store
+discovery.iml
+target/
+mvnw
+mvnw.cmd
